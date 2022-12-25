@@ -4,8 +4,6 @@
 <h3 align="center">A passionate Full-Stack Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/111365348/209468505-bdbd6b87-3211-4bc3-9173-03547d75659b.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mharisraza&label=Profile%20views&color=0e75b6&style=flat" alt="mharisraza" /> </p>
-
 - 🌱 I’m currently learning **new Technologies.**
 
 - 👨‍💻 All of my projects are available at [http://hariss.ga/projects/](http://hariss.ga/projects/)
