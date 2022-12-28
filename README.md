@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **new Technologies.**
 
-- 👨‍💻 All of my projects are available at [http://hariss.ga/projects/](http://hariss.ga/projects/)
+- 👨‍💻 All of my projects are available at [http://hariss.ga/projects](http://hariss.ga/projects/)
 
 - 📝 I regularly write articles on [http://blogs.hariss.ga/](http://blogs.hariss.ga/)
 
