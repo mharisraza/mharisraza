@@ -31,7 +31,7 @@
       <a href="#">
         <img src="/images/javascript.png" width="48" height="48" alt="javascript" />
       </a>
-      <br>JavaScript
+      <br>JavaScript/TypeScript
     </td>
      <td align="center" width="96">
       <a href="#">
