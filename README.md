@@ -31,7 +31,7 @@
       <a href="#">
         <img src="/images/javascript.png" width="48" height="48" alt="javascript" />
       </a>
-      <br>JavaScript/TypeScript
+      <br>JS/TS
     </td>
      <td align="center" width="96">
       <a href="#">
@@ -56,6 +56,18 @@
         <img src="/images/quarkus.png" width="48" height="48" alt="mysql" />
       </a>
       <br>Quarkus
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="/images/tailwind.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="/images/next.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>Next.js
     </td>
   </tr>
 </table>
