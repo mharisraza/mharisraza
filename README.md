@@ -51,6 +51,12 @@
       </a>
       <br>MySQL
     </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="/images/quarkus.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>Quarkus
+    </td>
   </tr>
 </table>
 
