@@ -45,9 +45,9 @@
       </a>
       <br>Bootstrap
     </td>
-      <td align="center" width="96">
+      <td style="white-space: nowrap;" align="center" width="96">
       <a href="#">
-        <img src="/images/bootstrap.png" width="48" height="48" alt="springboot" />
+        <img src="/images/springboot.png" width="48" height="48" alt="springboot" />
       </a>
       <br>Spring Boot
     </td>
