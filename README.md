@@ -1,5 +1,5 @@
   <h1 align="center">Hi, I'm Muhammad Haris 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Java Developer from Pakistan</h3>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mharisraza&style=for-the-badge&color=green"/></p>
@@ -10,41 +10,11 @@
 
  <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="/images/html.png" width="48" height="48" alt="html5" />
-      </a>
-      <br>HTML5
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="/images/css.png" width="48" height="48" alt="css3" />
-      </a>
-      <br>CSS3
-    </td>
      <td align="center" width="96">
       <a href="#">
         <img src="/images/java.png" width="48" height="48" alt="java" />
       </a>
       <br>Java
-    <td align="center" width="96">
-      <a href="#">
-        <img src="/images/javascript.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>JS/TS
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="/images/react.png" width="48" height="48" alt="reactjs" />
-      </a>
-      <br>ReactJS
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="/images/bootstrap.png" width="48" height="48" alt="bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
       <td style="white-space: nowrap;" align="center" width="96">
       <a href="#">
         <img src="/images/springboot.png" width="48" height="48" alt="springboot" />
@@ -68,18 +38,6 @@
         <img src="/images/quarkus.png" width="48" height="48" alt="mysql" />
       </a>
       <br>Quarkus
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="/images/tailwind.png" width="48" height="48" alt="mysql" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-     <td align="center" width="96">
-      <a href="#">
-        <img src="/images/next.png" width="48" height="48" alt="mysql" />
-      </a>
-      <br>Next.js
     </td>
   </tr>
 </table>
