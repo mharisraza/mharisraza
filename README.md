@@ -19,7 +19,7 @@
       <a href="#">
         <img src="/images/springboot.png" width="48" height="48" alt="springboot" />
       </a>
-      <br>Spring Boot
+      <br>SpringBoot
     </td>
      <td align="center" width="96">
       <a href="#">
@@ -32,6 +32,12 @@
         <img src="/images/mongodb.png" width="48" height="48" alt="mongodb" />
       </a>
       <br>MongoDB
+    </td>
+         <td align="center" width="96">
+      <a href="#">
+        <img src="/images/selenium.png" width="48" height="48" alt="selenium" />
+      </a>
+      <br>Selenium
     </td>
      <td align="center" width="96">
       <a href="#">
